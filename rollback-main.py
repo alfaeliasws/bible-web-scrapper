@@ -1,10 +1,11 @@
-
-from bs4 import BeautifulSoup
+from dotenv import load_dotenv,find_dotenv
 import mysql.connector
-import requests
-import subprocess
+import os
+load_dotenv(find_dotenv())
 
-connection = mysql.connector.connect(host='localhost', database='bible', user='bible', password='6h2wtc6h2wtc')
+db_pass_env = os.environ.get("DB_PASSWORD")
+
+connection = mysql.connector.connect(host='localhost', database='bible', user='bible', password = db_pass_env)
 cursor = connection.cursor()
 
 bible_chapter_mysql = """SELECT bible_chapter, bible_book FROM bible where data = "main" """

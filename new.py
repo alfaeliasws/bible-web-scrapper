@@ -92,7 +92,10 @@ def bible_book_function():
 bible_book = bible_book_function()
 bible_chapter = bible_chapter_result
 
-LINK = f"https://www.bible.com/id/bible/306/{bible_book}.{bible_chapter}.TB"
+#change bible version
+bible_version = "TB"
+
+LINK = f"https://www.bible.com/id/bible/306/{bible_book}.{bible_chapter}.{bible_version}"
 
 r = requests.get(LINK)
 page_parse = BeautifulSoup(r.text, 'html.parser')

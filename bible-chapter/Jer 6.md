@@ -1,0 +1,65 @@
+# Jeremiah 6
+### Malapetaka yang akan menimpa Yerusalem dan Yehuda
+### 6:1-26
+ 
+1 Larilah mengungsi, hai orang-orang Benyamin,dari tengah-tengah Yerusalem!Tiuplah sangkakala di Tekoa,dan naikkanlah asap sebagai tanda di atas Bet-Kerem!Sebab malapetaka telah mengintai dari utara,yakni suatu kehancuran besar.
+ 
+2 Adakah puteri Sion samaseperti padang yang paling disukai,
+ 
+3 sehingga gembala-gembala mendatanginyabeserta kawanan ternak mereka?Mereka telah memasang kemah-kemahnya sekelilingnya,masing-masing memakan habis apa yang didapatnya.
+ 
+4 ”Persiapkanlah perang melawan dia;ayo, marilah kita maju menyerang pada tengah hari!””Celakalah kita, sebab matahari sudah lingsir,bayang-bayang senja hari sudah memanjang!”
+ 
+5 ”Ayo, marilah kita maju menyerang pada waktu malamdan merusakkan puri-purinya!”
+ 
+6 Sebab beginilah firman Tuhansemesta alam:”Tebanglah pohon-pohonnya dan timbunlah tanahmenjadi tembok terhadap Yerusalem!Itulah kota yang harus dihukum!Hanya penindasan saja di dalamnya!
+ 
+7 Seperti mata air meluapkan airnya,demikianlah kota itu meluapkan kejahatannya.Kekerasan dan aniaya terdengar di dalamnya,luka dan pukulan selalu ada Kulihat.
+ 
+8 Terimalah penghajaran, hai Yerusalem,supaya Aku jangan menarik diri dari padamu,supaya Aku jangan membuat engkau sunyi sepi,menjadi negeri yang tidak berpenduduk!”
+ 
+9 Beginilah firman Tuhansemesta alam:”Petiklah habis-habisan sisa-sisa orang Israelseperti pokok anggur dipetik habis-habisan.Kembalilah seperti pemetik buah anggurdengan tanganmu mencari-cari buah pada ranting-rantingnya.”
+ 
+10 Kepada siapakah aku harus berbicara dan bersaksi,supaya mereka mau memperhatikan?Sungguh, telinga mereka tidak bersunat,mereka tidak dapat mendengar!Sungguh, firman Tuhanmenjadi cemoohan bagi mereka,mereka tidak menyukainya!
+ 
+11 Tetapi aku penuh dengan kehangatan murka Tuhan,aku telah payah menahannya,harus menumpahkannya kepada bayi di jalan,dan kepada kumpulan teruna bersama-sama.Sesungguhnya, baik laki-laki maupun perempuan akan ditangkap,baik orang yang tua maupun orang yang sudah lanjut usianya.
+ 
+12 Rumah-rumah mereka akan beralih kepada orang lain,bersama ladang-ladang dan isteri-isteri mereka. –”Sesungguhnya, Aku mengacungkan tangan-Kumelawan penduduk negeri ini, demikianlah firman Tuhan.
+ 
+13 Sesungguhnya, dari yang kecil sampai yang besar di antara mereka,semuanya mengejar untung,baik nabi maupun imamsemuanya melakukan tipu.
+ 
+14 Mereka mengobati luka umat-Kudengan memandangnya ringan, katanya: Damai sejahtera! Damai sejahtera!,tetapi tidak ada damai sejahtera.
+ 
+15 Seharusnya mereka merasa malu,sebab mereka melakukan kejijikan;tetapi mereka sama sekali tidak merasa malu dan tidak kenal noda mereka.Sebab itu mereka akan rebah di antara orang-orang yang rebah;mereka akan tersandung jatuh pada waktu Aku menghukum mereka, firman Tuhan.”
+ 
+16 Beginilah firman Tuhan:”Ambillah tempatmu di jalan-jalan dan lihatlah,tanyakanlah jalan-jalan yang dahulu kala,di manakah jalan yang baik, tempuhlah itu,dengan demikian jiwamu mendapat ketenangan.Tetapi mereka berkata: Kami tidak mau menempuhnya!
+ 
+17 Juga aku mengangkat atas mereka penjaga-penjaga,firman-Ku: Perhatikanlah bunyi sangkakala!Tetapi mereka berkata: Kami tidak mau memperhatikannya!
+ 
+18 Sebab itu dengarlah, hai bangsa-bangsa,dan ketahuilah, hai jemaat, apa yang akan terjadi atas mereka!
+ 
+19 Dengarlah, hai bumi!Sungguh, ke atas bangsa iniAku akan mendatangkan malapetaka,akibat dari rancangan-rancangan mereka,sebab mereka tidak memperhatikan perkataan-perkataan-Kudan menolak pengajaran-Ku.
+ 
+20 Apakah gunanya bagi-Ku kamu bawa kemenyan dari Syebadan tebu yang baik dari negeri yang jauh?Aku tidak berkenan kepada korban-korban bakaranmudan korban-korban sembelihanmu tidak menyenangkan hati-Ku.
+ 
+21 Sebab itu beginilah firman Tuhan:Sungguh, Aku akan menaruh batu sandungan di depan bangsa ini,supaya mereka jatuh tersandung oleh karenanya;bapa-bapa serta dengan anak-anak,tetangga dan temannya, semuanya akan binasa.”
+ 
+22 Beginilah firman Tuhan:”Sesungguhnya, suatu bangsa akan datang dari tanah utara,suatu suku bangsa yang besar akan bergerak maju dari ujung bumi.
+ 
+23 Mereka memakai panah dan tombak;mereka bengis, tidak kenal belas kasihan.Suara mereka gemuruh seperti laut,mereka mengendarai kuda,berlengkap seperti orang maju berperang,menyerang engkau, hai puteri Sion!”
+ 
+24 Kami telah mendengar kabarnya,tangan kami sudah menjadi lemah lesu;kesesakan telah menyergap kami,kami kesakitan seperti perempuan yang melahirkan.
+ 
+25 ”Janganlah keluar ke padang,dan janganlah berjalan di jalan,sebab pedang musuh mengamuk –kegentaran datang dari segala jurusan!”
+ 
+26 Hai puteri bangsaku,kenakanlah kain kabung,dan berguling-gulinglah dalam debu!Berkabunglah seperti menangisi seorang anak tunggal,merataplah dengan pahit pedih!Sebab sekonyong-konyong akan datangsi pembinasa menyerangmu.
+### Yeremia menjadi penguji umat
+### 6:27-30
+ 
+27 Aku telah mengangkat engkau di antara umat-Ku sebagai penguji,engkau harus tahu bagaimana menyelidikinya,dan harus menguji tingkah langkah mereka.
+ 
+28 Semua mereka adalah pendurhaka belaka,berjalan kian kemari sebagai pemfitnah;sekaliannya mereka berlaku busuk!
+ 
+29 Puputan sudah mengembus,tetapi yang keluar dari api hanya timah hitam, tembaga dan besi.Sia-sia orang melebur terus-menerus,tetapi orang-orang yang jahat tidak terpisahkan.
+ 
+30 Sebutkanlah mereka perak yang ditolak,sebab Tuhantelah menolak mereka!

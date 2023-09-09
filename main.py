@@ -5,6 +5,7 @@ import mysql.connector
 import requests
 import subprocess
 import os
+import re
 load_dotenv(find_dotenv())
 
 db_pass_env = os.environ.get("DB_PASSWORD")
@@ -84,6 +85,8 @@ def bible_book_function():
         return "JHN"
     elif i == 22:
         return "SNG"
+    elif i == 26:
+        return "EZK"
     elif i:
         return list[i-1][0].replace(" ", "")[0:3]
     else:
@@ -96,40 +99,61 @@ bible_chapter = bible_chapter_result
 #change bible version
 bible_version = "TB"
 
-LINK = f"https://www.bible.com/id/bible/306/{bible_book}.{bible_chapter}.{bible_version}"
+# LINK = f"https://www.bible.com/bible/306/{bible_book}.{bible_chapter}.{bible_version}"
+LINK = f"https://alkitab.sabda.org/bible.php?book={i}&chapter={bible_chapter}&tab=text&mode=print"
+print(LINK)
 
 r = requests.get(LINK)
 page_parse = BeautifulSoup(r.text, 'html.parser')
-search_results = page_parse.find("div",{"class":"chapter"}).find_all("span",{"class":["heading","content","label"]})
-
+# search_results = page_parse.find("div",{"class":"ChapterContent_reader__UZc2K"}).find_all("span",{"class":["ChapterContent_heading__RjEme","ChapterContent_verse__jS6jM","ChapterContent_label__S_AvV"]})
+search_results = page_parse.find("div",{"class":"texts"})
 content = []
 continuation = "false"
 
+verse = 0
+
+CLEANR = re.compile('<.*?>') 
+
+def cleanhtml(raw_html):
+    cleantext = re.sub(CLEANR, '', raw_html)
+    return cleantext
+
 for i in search_results:
     temp = str(i)
-    if'<span class="heading">(' in temp:
-        continuation = "true"
-        continue
-    if'<span class="heading">)' in temp:
-        continuation = "false"
-        continue
-    if '<span class="content"> ' in temp:
-        item = temp.replace('<span class="content"> ',"").replace('</span>',"")
-    if ('<span class="content">' in temp and '<span class="content"> ' not in temp ):
-        item = temp.replace('<span class="content">',"").replace('</span>',"")
-    if '<span class="label">' in temp:
-        item = temp.replace('<span class="label">',"\n \n").replace('</span>'," ")
-    if '<span class="label">#</span>' in temp:
-        continue
-    if '<span class="heading">Tuhan' in temp:
-        item = temp.replace('<span class="heading">',"").replace('</span>',"")
-    if ('<span class="heading">' in temp and '<span class="heading">Tuhan' not in temp):
-        item = temp.replace('<span class="heading">',"\n### ").replace('</span>',"")
-    if item == " ":
-        continue
-    if continuation == "true":
-        continue
-    if continuation == "false":
+    # if'<span class="ChapterContent_heading__RjEme">(' in temp:
+    #     continuation = "true"
+    #     continue
+    # if'<span class="ChapterContent_heading__RjEme">)' in temp:
+    #     continuation = "false"
+    #     continue
+    item = cleanhtml(str(i))
+    item = item.replace("	","")
+    item = item.replace("                                                                                                                                                                             ","")
+    item = item.replace("                                                                                                                ","")
+    item = item.replace("                         ","")
+    # if '<span class="ChapterContent_verse__jS6jM v"' in temp:
+    #     item = temp.replace('<span class="ChapterContent_verse__jS6jM v',"").replace('</span>',"")
+    # if '<span class="ChapterContent_heading__RjEme">Tuhan' in temp:
+    #     item = temp.replace('<span class="ChapterContent_heading__RjEme">',"").replace('</span>',"")
+    # if ('<span class="ChapterContent_heading__RjEme">' in temp and '<span class="ChapterContent_heading__RjEme">Tuhan' not in temp):
+    #     item = temp.replace('<span class="ChapterContent_heading__RjEme">',"\n### ").replace('</span>',"")
+    # if 'v' in temp:
+    #     verse = 1
+
+    # if ('<span class="ChapterContent_verse__jS6jM"' in temp and '<span class="ChapterContent_verse__jS6jM"> ' not in temp ):
+    #     item = temp.replace('<span class="ChapterContent_verse__jS6jM',"").replace('</span>',"")
+    # if '<span class="label">' in temp:
+    #     item = temp.replace('<span class="ChapterContent_heading__RjEme"',"\n \n").replace('</span>'," ")
+    # if '<span class="ChapterContent_label__S_AvV">#</span>' in temp:
+    #     continue
+
+    # if item == " ":
+    #     continue
+    # if continuation == "true":
+    #     continue
+    # if continuation == "false":
+    print(item)
+    if 'item' in vars():
         content.append(item)
 
 f = open(f"{bible_book} {bible_chapter}.md","w+")

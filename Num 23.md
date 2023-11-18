@@ -2,7 +2,7 @@
 23:1 Lalu berkatalah Bileam kepada Balak: "Dirikanlah bagiku di sini tujuh mezbah dan siapkanlah bagiku di sini tujuh ekor lembu jantan dan tujuh ekor domba jantan."
 23:2 Balak melakukan seperti yang dikatakan Bileam, maka Balak dan Bileam mempersembahkan seekor lembu jantan dan seekor domba jantan di atas setiap mezbah itu.
 23:3 Sesudah itu berkatalah Bileam kepada Balak: "Berdirilah di samping korban bakaranmu, tetapi aku ini hendak pergi; mungkin TUHAN akan datang menemui aku, dan perkataan apapun yang dinyatakan-Nya kepadaku, akan kuberitahukan kepadamu." Lalu pergilah ia ke atas sebuah bukit yang gundul.
-                                                                                                                                         Bileam memberkati Israel
+Bileam memberkati Israel
 23:4 Maka Allah menemui Bileam, lalu Bileam berkata kepada-Nya: "Ketujuh mezbah itu telah kuatur, dan kupersembahkan seekor lembu jantan dan seekor domba jantan di atas setiap mezbah."
 23:5 Kemudian TUHAN menaruh perkataan ke dalam mulut Bileam dan berfirman: "Kembalilah kepada Balak dan katakanlah demikian."
 23:6 Ketika ia kembali, maka Balak masih berdiri di situ di samping korban bakarannya, bersama dengan semua pemuka Moab.
@@ -19,7 +19,7 @@
 23:17 Ketika ia sampai kepadanya, Balak masih berdiri di samping korban bakarannya bersama-sama dengan pemuka-pemuka Moab. Berkatalah Balak kepadanya: "Apakah yang difirmankan TUHAN?"
 23:18 Lalu diucapkannyalah sanjaknya, katanya: "Bangunlah, hai Balak, dan dengarlah; pasanglah telingamu mendengarkan aku, ya anak Zipor.
 23:19 Allah bukanlah manusia, sehingga Ia berdusta bukan anak manusia, sehingga Ia menyesal 1 . Masakan Ia berfirman dan tidak melakukannya, atau berbicara dan tidak menepatinya?
-                                                                                                                23:20 Ketahuilah, aku mendapat perintah untuk memberkati, dan apabila Dia memberkati, maka aku tidak dapat membalikkannya.
+23:20 Ketahuilah, aku mendapat perintah untuk memberkati, dan apabila Dia memberkati, maka aku tidak dapat membalikkannya.
 23:21 Tidak ada ditengok kepincangan di antara keturunan Yakub, dan tidak ada dilihat kesukaran di antara orang Israel. TUHAN, Allah mereka, menyertai mereka, dan sorak-sorak karena Raja ada di antara mereka.
 23:22 Allah, yang membawa mereka keluar dari Mesir, adalah bagi mereka seperti tanduk kekuatan lembu hutan,
 23:23 sebab tidak ada mantera yang mempan terhadap Yakub, ataupun tenungan yang mempan terhadap Israel. Pada waktunya akan dikatakan kepada Yakub, begitu juga kepada Israel, keajaiban yang diperbuat Allah:
@@ -30,4 +30,4 @@
 23:28 Lalu Balak membawa Bileam ke puncak gunung Peor, yang menghadap Padang Belantara.
 23:29 Berkatalah Bileam kepada Balak: "Dirikanlah bagiku di sini tujuh mezbah dan siapkanlah di sini bagiku tujuh ekor lembu jantan dan tujuh ekor domba jantan."
 23:30 Lalu Balak melakukan seperti yang dikatakan Bileam, maka ia mempersembahkan seekor lembu jantan dan seekor domba jantan di atas setiap mezbah itu.
-                                                                                                 
+                      

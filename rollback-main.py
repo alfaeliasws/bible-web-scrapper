@@ -5,7 +5,9 @@ load_dotenv(find_dotenv())
 
 db_pass_env = os.environ.get("DB_PASSWORD")
 
-connection = mysql.connector.connect(host='localhost', database='bible', user='bible', password = db_pass_env)
+connection = mysql.connector.connect(
+    host="localhost", database="bible", user="root", password=""
+)
 cursor = connection.cursor()
 
 bible_chapter_mysql = """SELECT bible_chapter, bible_book FROM bible where data = "main" """
